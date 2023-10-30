@@ -6,6 +6,8 @@ import SignIn from "./pages/SignIn";
 import SignUp from "./pages/SignUp";
 import Header from "./components/Header";
 
+
+// connecting all the pages to the main 
 export default function App() {
   return (
     <BrowserRouter>
